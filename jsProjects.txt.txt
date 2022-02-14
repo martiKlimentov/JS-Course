@@ -1,0 +1,17 @@
+- go through https://learnjavascript.online/ 
+
+- go through https://regexlearn.com/
+
+- Create program that generates (using console.log) the following picture (use https://playcode.io/new/ to demonstrate the result):
+    *
+   ***
+  *****
+ *******
+*********
+
+
+- find the letter that is most often used and the number of it's occurences in the string: szxzshpswsp
+
+- check several projects you like from here: https://www.freecodecamp.org/news/javascript-projects-for-beginners/ (part of them are based on the course https://softserve.udemy.com/course/javascript-tutorial-for-beginners-w/) You can find the final working projects here: https://www.vanillajavascriptprojects.com/
+
+- go through https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
