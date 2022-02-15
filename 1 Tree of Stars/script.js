@@ -10,7 +10,7 @@ form.addEventListener('submit', (e) => {
 
 function onChangeHandler() {
   let numOfLines = document.querySelector('#number-of-lines').value;
-  generateTree(numOfLines);
+  generateTree(Number(numOfLines));
 }
 
 function generateTree(lines) {
